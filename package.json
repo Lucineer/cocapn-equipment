@@ -1,0 +1,9 @@
+{
+  "name": "cocapn-equipment",
+  "version": "1.0.0",
+  "description": "Shared equipment library for the Lucineer fleet",
+  "type": "module",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "author": "Superinstance & Lucineer (DiGennaro et al.)"
+}
